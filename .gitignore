@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Local Claude Code instructions (personal, not for portfolio commits)
+CLAUDE.md
